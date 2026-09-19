@@ -1,4 +1,4 @@
-# Hi, I'm Michael Mayrhofer 👋
+# Hi, I'm Michael 👋
 
 I am a Software Engineer based in Vienna, currently finalizing my MSc in Software Engineering at TU Vienna while working full-time in commercial software development.
 
