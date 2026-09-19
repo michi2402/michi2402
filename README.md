@@ -12,4 +12,4 @@ If my contribution graph looks a bit quiet, it is because most of **my engineeri
 *   **Data & Messaging:** PostgreSQL, MS SQL, MongoDB, Redis, RabbitMQ
 *   **Architecture & Workflows:** Software Architecture, Agentic Engineering, Agile/Scrum
 
-📫 **Reach me at:** [[LinkedIn]](https://www.linkedin.com/in/michael-mayrhofer-6594a4206/)
+📫 **Reach me at:** [LinkedIn](https://www.linkedin.com/in/michael-mayrhofer-6594a4206/)
