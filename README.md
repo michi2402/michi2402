@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Michael Mayrhofer 👋
 
-<!--
-**michi2402/michi2402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Software Engineer based in Vienna, currently finalizing my MSc in Software Engineering at TU Vienna while working full-time in commercial software development.
 
-Here are some ideas to get you started:
+### 🔒 Where is my code?
+If my contribution graph looks a bit quiet, it is because most of **my engineering work over the past five years has been proprietary.** I have spent my career building closed-source B2B systems, startup IP, and custom enterprise ERPs. My daily commits live behind NDAs in private repositories.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Skills
+*   **Languages:** Kotlin, Java, C#, TypeScript, HTML/CSS, Python
+*   **Frameworks:** Spring Boot, Angular, ASP.NET, Avalonia UI
+*   **Cloud & Infrastructure:** Microsoft Azure, Kubernetes, Docker, Terraform, GitLab, TeamCity
+*   **Data & Messaging:** PostgreSQL, MS SQL, MongoDB, Redis, RabbitMQ
+*   **Architecture & Workflows:** Software Architecture, Agentic Engineering, Agile/Scrum
+
+📫 **Reach me at:** [[LinkedIn]](https://www.linkedin.com/in/michael-mayrhofer-6594a4206/)
